@@ -26,7 +26,7 @@
                         </tr>
                         <tr>
                             <td>NIM</td>
-                            <td><input type="number" name="nis" value="<?php echo $data['nim'];?>"></td>
+                            <td><input type="number" name="nim" value="<?php echo $data['nim'];?>"></td>
                         </tr>
                         <tr>
                             <td>Alamat</td>
